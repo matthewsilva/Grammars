@@ -1,1 +1,3 @@
 # Grammars
+
+![](readmeImages/GrammarExample.png)
